@@ -1,0 +1,44 @@
+﻿<Worksheet ss:Name="____SheetName____">
+  <Table ss:ExpandedColumnCount="16" ss:ExpandedRowCount="429" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="15">
+   <Column ss:Index="4" ss:Width="54.75" ss:Span="1"/>
+   <Column ss:Index="6" ss:Width="76.5"/>
+   <Column ss:Width="87"/>
+   <Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="111.75"/>
+   <Row ss:AutoFitHeight="0" ss:Span="1"/>
+   <Row ss:Index="3" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MaterialName</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Specification</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Unit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Volume</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Total Volume</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Unit Price</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Total Price</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Potevio Material ID</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Potevio Material Name</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Description</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Unique Customer ID</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">简短备注</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">配置工作分工</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">工程勘察情况</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Customer Material ID</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">文件链接</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Main Part</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">set</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">889455.63449379895</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">主用配置</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">生产</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String"></Data></Cell>
+   </Row>
