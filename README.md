@@ -12,3 +12,10 @@ Use cases:
   
 information:
   The python(NOT IRONPYTHON) + Tk version will be provided on request.
+  
+  
+Folders:
+  filesafe/src: main python files.a02-xx fil is the main python file.
+  filesafe/compiletool: compile the python file to binary executable ,if you need.
+  
+  
